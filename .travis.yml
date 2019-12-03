@@ -1,2 +1,7 @@
 language: csharp
 solution: circleci-demo-windows.sln
+notifications:
+    email:
+        recipients:
+        - ruchi.sharma@intimetec.com
+        - sanjeev.kumar@intimetec.com
